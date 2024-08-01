@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # 💫About Me :
 I'm currently improving my Knowledge Horizons.
 I'm a self-learner by heart.
-I am learning C, C++, Python, JavaScript, , ML, DL & Docker, Jenkins, AWS. 
+I am learning C, C++, Python, JavaScript, , ML, DL, AWS. 
 
 
 ## 🌐Socials
