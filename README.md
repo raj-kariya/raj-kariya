@@ -43,14 +43,6 @@ I'm also diving into **Cloud Computing** and **DevOps** to enhance development w
 
 ---
 
-# 🏆 Featured Projects
-- ✨ **[Smart ML Web App](#)** — Built a machine learning-powered web app using Django and Scikit-Learn.
-- 🚀 **[Spring Boot Backend API](#)** — Developed RESTful APIs integrated with MySQL and secured using JWT.
-- 🌐 **[Portfolio Website](#)** — Designed and deployed a personal portfolio using React and Netlify.
-
-*(Add links to your projects if possible!)*
-
----
 
 # ✍️ Inspiring Quote
 > _"Code is like humor. When you have to explain it, it’s bad."_
@@ -59,14 +51,6 @@ I'm also diving into **Cloud Computing** and **DevOps** to enhance development w
 
 # 🎯 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/raj-kariya)
-- 📧 Email: **raj.kariya@example.com** *(Add your professional email if you want)*
+- 📧 Email: **rajkariya2003@gmail.com** 
 
 ---
-
-### 🔥 Bonus Tip:  
-You can also add a "📄 Resume" section if you have a public link to your resume!  
-Example:
-```md
-📄 [View My Resume]()
-```
-
