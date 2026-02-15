@@ -1,6 +1,16 @@
 # 👋 Hi, I'm Raj Kariya!
+I’m a Math and Computing graduate from DAIICT, currently navigating the world of enterprise systems as a System Engineer at TCS. My toolkit ranges from robust full-stack development to the cutting edge of Generative AI.
 
-A passionate **Software Engineer** who loves building intelligent, scalable systems with a focus on **AI, Machine Learning**, and **Backend Development**.
+What I’m currently obsessed with:
+
+RAG Architectures: Making LLMs smarter and more reliable.
+
+Open Source: Contributing to the global codebase.
+
+Real-World Impact: Building AI solutions that people actually use.
+
+I use GitHub to share projects, collaborate with other developers, and continuously grow through hands-on learning and community-driven development.
+
 
 ---
 
